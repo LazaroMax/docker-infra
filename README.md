@@ -1,4 +1,7 @@
 # Docker Infra
+![Web funcionando](./screenshot-web.png)
+
+![Contenedores corriendo](./screenshot-containers.png)
 
 Infraestructura reproducible con Docker Compose: servidor web Nginx con proxy hacia un servicio Node.js.
 
